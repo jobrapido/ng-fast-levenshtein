@@ -1,6 +1,6 @@
 # AngularJS implementation of the fast levenshtein algorithm
 
-[TODO - brief summary]
+Simple AngularJS implementation of fast-levenshtein algorithm based on `hiddentao`'s `fast-levenshtein` package ([link](https://github.com/hiddentao/fast-levenshtein)).
 
 ## Demo
 http://jobrapido.github.io/ng-fast-levenshtein/
