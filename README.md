@@ -3,7 +3,7 @@
 [TODO - brief summary]
 
 ## Demo
-http://maur8ino.github.io/ngfast-levenshtein/
+http://jobrapido.github.io/ng-fast-levenshtein/
 
 ## Dependencies
 - required:
@@ -24,4 +24,4 @@ See the `gh-pages` branch, files `bower.json` and `index.html` for a full exampl
 
 ## Documentation
 See the `ng-fast-levenshtein.js` file top comments for usage examples and documentation
-https://github.com/maur8ino/ng-fast-levenshtein/blob/master/ng-fast-levenshtein.js
+https://github.com/jobrapido/ng-fast-levenshtein/blob/master/ng-fast-levenshtein.js
