@@ -1,0 +1,28 @@
+{
+  "name": "ng-fast-levenshtein",
+  "version": "0.0.1",
+  "description": "AngularJS implementation of the fast levenshtein algorithm",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maur8ino/ng-fast-levenshtein.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maur8ino/ng-fast-levenshtein/issues"
+  },
+  "homepage": "https://github.com/maur8ino/ng-fast-levenshtein",
+  "devDependencies": {
+    "karma": "^0.12.19",
+    "karma-coverage": "^0.2.5",
+    "karma-jasmine": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
+}
