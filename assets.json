@@ -1,0 +1,12 @@
+{
+  "supportFiles": [
+    "bower_components/angular/angular.js",
+    "bower_components/angular-mocks/angular-mocks.js"
+  ],
+  "srcFiles": [
+    "src/**/*.js"
+  ],
+  "testFiles": [
+    "test/**/*.js"
+  ]
+}

@@ -3,15 +3,9 @@ angular.module('ngFastLevenshtein', []).
     return {
       distance: function (str1, str2) {
         // base cases
-        if (str1 === str2) {
-          return 0;
-        }
-        if (str1.length === 0) {
-          return str2.length;
-        }
-        if (str2.length === 0) {
-          return str1.length;
-        }
+        if (str1 === str2) return 0;
+        if (str1.length === 0) return str2.length;
+        if (str2.length === 0) return str1.length;
 
         // two rows
         var prevRow = new Array(str2.length + 1),

@@ -5,6 +5,10 @@
 		"Mauro Verrocchio <mauroverrocchio@gmail.com>"
 	],
 	"description": "AngularJS implementation of the fast levenshtein algorithm",
+  "main": [
+    "dist/ng-fast-levenshtein.js",
+    "dist/ng-fast-levenshtein.min.js"
+  ],
 	"keywords": [
 		"angular",
 		"levenshtein",
