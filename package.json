@@ -1,6 +1,6 @@
 {
   "name": "ng-fast-levenshtein",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AngularJS implementation of the fast levenshtein algorithm",
   "main": "index.js",
   "directories": {
