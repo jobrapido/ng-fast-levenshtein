@@ -1,4 +1,4 @@
-# AngularJS implementation of the fast levenshtein algorithm
+# AngularJS implementation of the fast levenshtein algorithm [![Build Status](https://travis-ci.org/jobrapido/ng-fast-levenshtein.svg?branch=master)](https://travis-ci.org/jobrapido/ng-fast-levenshtein)
 
 Simple AngularJS implementation of fast-levenshtein algorithm based on `hiddentao`'s `fast-levenshtein` package ([link](https://github.com/hiddentao/fast-levenshtein)).
 
